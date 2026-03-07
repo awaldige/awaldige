@@ -1,95 +1,59 @@
 # 👋 Olá, eu sou André Waldige
 
-💻 Desenvolvedor Web em transição de carreira para Front-end  
-🚀 Criando projetos práticos com JavaScript e aplicações web modernas  
-📍 Brasil
+### 💻 Desenvolvedor Full Stack | Especialista em Automação e Interfaces Modernas
+🚀 Construindo soluções robustas através de **projetos práticos** no meu "Lab".
+📍 São Paulo, Brasil
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-Atualmente focado em desenvolvimento web, criando projetos práticos para portfólio e aprimorando habilidades em:
+Desenvolvedor focado em transformar lógica de negócio em aplicações funcionais. No meu laboratório pessoal, desenvolvo ecossistemas que unem **arquitetura de APIs** e **interfaces de alta performance**, atendendo tanto às necessidades de processos internos de **empresas/RH** quanto às demandas de **projetos independentes (Freelance)**.
 
-- JavaScript
-- HTML e CSS
-- Interfaces web interativas
-- Projetos frontend completos
-- Aplicações com armazenamento local e lógica de negócios
-
-Meu objetivo é conquistar oportunidades como **Desenvolvedor Front-end Júnior** ou **Freelancer Web**.
+Meu objetivo é aplicar minha proatividade e domínio técnico em times de tecnologia ou em soluções sob medida para clientes.
 
 ---
 
-## 🛠 Tecnologias que utilizo
+### 🛠 Tecnologias & Ferramentas
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- Node.js (em aprendizado)
-- APIs REST
-- LocalStorage
-- Vercel / Deploy web
+| Frontend | Backend & DB | Deploy & Tools |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 (SASS) | Node.js / Express | Git & GitHub |
+| JavaScript (ES6+) | PHP / MySQL | Vercel / Render / Firebase |
+| React (Estudando) | APIs REST / JSON | LocalStorage / Auth |
 
 ---
 
-## 📌 Projetos em destaque
+### 📌 Projetos em Destaque (Meu Lab)
 
-### ✅ TaskPad – Gerenciador de Tarefas
-Aplicação web estilo Kanban para gerenciamento de tarefas.
+#### ✅ [TaskPad – Gerenciador de Tarefas](https://github.com/awaldige/taskpad)
+Aplicação web estilo Kanban focada em produtividade corporativa.
+* **Destaque:** Lógica de prazos, subtarefas e persistência de dados.
+* **Foco:** Organização de processos e UX.
 
-✔ Criar tarefas  
-✔ Subtarefas  
-✔ Barra de progresso  
-✔ Prazo e alerta de atraso  
-✔ Tema claro/escuro  
-✔ Dados salvos no navegador  
+#### 🛒 [Catálogo Online de Produtos](https://github.com/awaldige/catalogo-online)
+Solução Full Stack para e-commerce com separação de responsabilidades.
+* **Destaque:** Painel administrativo integrado e consumo de API.
+* **Foco:** Negócios digitais e Freelance.
 
-🔗 Projeto:  
-https://github.com/awaldige/taskpad
-
----
-
-### 🛒 Catálogo Online de Produtos
-Catálogo web com backend e frontend separados.
-
-✔ Listagem dinâmica  
-✔ API backend  
-✔ Painel administrativo  
-✔ Deploy online  
-
-🔗 Projeto:  
-https://github.com/awaldige/catalogo-online
+#### 📝 [Gerador de Contratos & Holerites](https://github.com/awaldige/contract-generator)
+Ferramentas de automação para rotinas administrativas e de RH.
+* **Destaque:** Cálculos automáticos e geração de documentos em tempo real.
+* **Foco:** Soluções para empresas e automação de processos.
 
 ---
 
-### ✅ Sistema de Agendamentos
-Aplicação web para gerenciamento de agendamentos e tarefas, com organização por status, interface moderna e armazenamento local.  
-🛠️ 
- ✔ HTML
- ✔ CSS 
- ✔ JavaScript  
-   
-🔗 Projeto:
-https://github.com/awaldige/sistema_agendamento
-
-
-## 📈 Atualmente estudando
-
-- JavaScript avançado
-- React
-- Node.js
-- APIs modernas
-- UI/UX para aplicações web
+### 📈 Evolução Técnica Atual
+* Arquitetura de Sistemas com **Node.js**.
+* Desenvolvimento de Single Page Applications (SPA) com **React**.
+* Otimização de Performance e **UI/UX**.
 
 ---
 
-## 📫 Contato
+### 📫 Vamos construir algo juntos?
 
-- GitHub: https://github.com/awaldige
-- LinkedIn:
-- Portfólio: 
+* **Portfólio Oficial:** [andre-waldige.vercel.app](https://andre-waldige.vercel.app/)
+* **LinkedIn:** [linkedin.com/in/awaldige780606/](https://linkedin.com/in/awaldige780606/)
+* **WhatsApp:** [(11) 98587-8638](https://wa.me/5511985878638)
 
----
-
-⭐ Obrigado por visitar meu perfil!
+⭐ *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios.*
